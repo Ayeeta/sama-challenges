@@ -7,6 +7,7 @@ edges = [
     [0, 4], [1, 5], [2, 6], [3, 7]   
 ]
 
+#To scale dimensions
 length = 10
 width = 20
 height = 30

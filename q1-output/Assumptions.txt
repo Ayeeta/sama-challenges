@@ -1,0 +1,9 @@
+Assumptions:
+- A cuboid is a 6-faced rectangular 3d shaped image with 8 vertices and 12 edges
+- Cube has to be perfectly shaped
+- changing position of coordinates will not affect the result as long as they're 8 vertices
+- x,y,z axes are known, I did not have to label them
+- plotting lines have to perfectly make up a cube and not any other diagonal figure
+- Coordinates are fixed and will not change
+- scaled length, width and height is fixed and will not change
+
